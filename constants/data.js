@@ -48,7 +48,7 @@ const userData = {
   },
   experience: [
     {
-      title: "Internship",
+      title: "Software Enginner 1",
       company: "Climbax Entertainment",
       year: "2023 July - Now",
       desc: "Working as Software Engineer (SE-1)",

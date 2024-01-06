@@ -8,7 +8,7 @@ export default function Hero() {
   const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6"];
   return (
     <>
-      <div className="flex flex-col justify-center items-start overflow-hidden">
+      <div className="flex flex-col justify-center items-start overflow-hidden my-20">
         {/* Text container */}
         <div style={{width:"100%",display:"flex",justifyContent:"center"}}>
           <Image
