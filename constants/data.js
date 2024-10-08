@@ -48,9 +48,15 @@ const userData = {
   },
   experience: [
     {
+      title: "Full Stack Web Developer",
+      company: "ClickVelo Digital",
+      year: "2024 Jan - Now",
+      desc: "Working as Full Stack Web Developer",
+    },
+    {
       title: "Software Enginner 1",
       company: "Climbax Entertainment",
-      year: "2023 July - Now",
+      year: "2023 July - 2023 Dec",
       desc: "Working as Software Engineer (SE-1)",
     },
     {
